@@ -2,7 +2,7 @@
 
 - OpenTennis
   - a team management system for tennis coaches and players.
-  - tech stack: react, redux, tailwindCSS, material ui, golang, mySQL, hosted on aws
+  - tech stack: react, redux toolkit, react query, tailwindCSS, material ui, golang, mySQL, hosted on aws
   - [link](https://www.opentennis.pro)
 
 ### projects for fun
