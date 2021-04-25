@@ -12,6 +12,7 @@
   - tech stack: react, redux toolkit, typescript, firebase, cirrus ui
   - [link](https://tutorlite.us)
   - [devpost link](https://devpost.com/software/tutorlite)
+  - [github](https://github.com/YashTotale/tutorlite)
 
 ### projects for fun
 
