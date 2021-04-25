@@ -5,6 +5,14 @@
   - tech stack: react, redux toolkit, react query, tailwindCSS, material ui, golang, mySQL, hosted on aws
   - [link](https://www.opentennis.pro)
 
+### hackathon projects
+
+- TutorLite
+  - a tutoring app for high schoolers
+  - tech stack: react, redux toolkit, typescript, firebase, cirrus ui
+  - [link](https://tutorlite.us)
+  - [devpost link](https://devpost.com/software/tutorlite)
+
 ### projects for fun
 
 - ytdownloader
